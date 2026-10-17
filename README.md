@@ -2,6 +2,10 @@
 
 This is a practice project where I looked at which employees are more likely to leave a company. I used 1,000 IT employee records and worked with Python, SQL (SQL Server), Excel and Power BI.
 
+**Project date:** December 2025
+
+I made this project while learning the Data Analyst course at QSpiders. I had finished my BSc IT and this was one of my practice projects.
+
 > **Note:** The data is **simulated (not real)**. I generated it with Python (`PYTHON/IT_Employee_Attrition_Data_Generation.ipynb`) using rules that I wrote myself. So the results are **not from a real company** and do not show real employee behaviour. I made this project only to practice the full analysis steps.
 
 ---
@@ -125,4 +129,4 @@ All queries run on the database `IT_Employee_Attrition_DB` (table `it_employee_a
 ## Author
 
 **Santosh Chaurasia**
-M.Sc. Data Science student
+BSc IT graduate | Data Analyst course student at QSpiders
